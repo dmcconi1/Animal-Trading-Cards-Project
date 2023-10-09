@@ -1,0 +1,64 @@
+#tradingcards {border: 5px solid black;
+    width: 780px;
+    height: 850px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    background-color: burlywood;
+    box-shadow: grey 3px 5px 5px 5px, grey -3px 5px 5px 5px;
+}
+
+.collectionname {font: bold 36pt London, serif;
+                text-decoration: underline;
+                margin: auto;
+                padding: 5px;
+                border: 2px solid black;
+
+}
+
+.card {width:320px;
+    padding: 10px;
+    margin: 20px;
+    border: 3px solid black;
+    box-shadow: 3px 3px 3px 3px grey, -3px 3px 3px 3px grey;
+    background-color: aliceblue;
+}
+
+.animalname {font: italic bold 28pt "Gill Sans", sans-serif;
+    color: midnightblue;
+    width: 310px;
+    border: 5px inset grey;  
+}
+
+.animalpic {width: 300px;
+    height: 200px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    margin-top: -15px;
+    padding: 5px;
+}
+
+
+.cardbody { margin-right: 5px;
+    padding: .5px;
+    border: 3px double black;
+    background-color: whitesmoke;
+}
+
+.funfact {font-style: italic;
+    padding: 10px;
+}
+
+ul {padding: 15px;
+}
+li {list-style-type: none;
+}
+
+li span {font-weight: bold;
+}
+
+.summary {padding: 10px;
+}
