@@ -10,5 +10,6 @@
 After downloading and compiling the files in a local folder:
 
 ```
-launch the card.html file and click the links and animal photos
-to be taken to corresponding webpages
+launch the card.html file in your web browser, Chrome preferably,
+and click the links and animal photos to be taken to corresponding
+webpages.
